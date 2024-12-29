@@ -62,7 +62,7 @@ streamlit run agency.py
 streamlit run agency.py -- --api_base_path "http://example-api.com"
 
 
-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
+
 
 knowledge center for our software company
 
